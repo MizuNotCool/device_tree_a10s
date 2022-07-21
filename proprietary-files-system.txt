@@ -1,0 +1,5 @@
+-app/ImsSettings/ImsSettings.apk
+bin/kpoc_charger
+etc/init/kpoc_charger.rc
+lib/libaptX_encoder.so
+lib/libshowlogo.so
